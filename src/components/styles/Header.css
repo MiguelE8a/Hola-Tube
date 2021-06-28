@@ -1,0 +1,85 @@
+.Header {
+  width: 100%;
+  height: 56px;
+}
+.Header__Logo{
+  display: flex;
+  align-items: center;
+}
+.Header__Container{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.Header__Logo--A{
+  margin-left: 18px;
+}
+.Header__Logo--B{
+  margin-left: 40px;
+}
+.Header_Logo-img{
+  width: 21px;
+}
+.Header_Logo-img2{
+  width: 80px;
+}
+.Header__Logo--ContainerPE{
+  height: 31px;;
+  display: flex;
+  align-items: flex-start;
+}
+.Header--PE{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 10px;
+  margin: 0px;
+}
+.Header__ContainerInput{
+  display: flex;
+  align-items: center;
+  height:  25.31px;
+}
+.HeaderInput{
+  padding-left: 10px;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  margin-left: 4px;
+  max-width: 100%;
+  outline: none;
+  color: #818181;
+  width: 561px;
+  height: 100%;
+  border: 1px solid hsl(0deg 0% 83%);
+}
+.HeaderInput__Button{
+  width: 65px;
+  height: 26.31px;
+  border: 1px solid hsl(0deg 0% 83%);
+}
+.HeaderInput__img{
+  width: 14px;
+}
+.HeaderMicrophone{
+  margin-left: 16px;
+  width: 12px;
+}
+.Microphone__img{
+  width: 12px;
+}
+.headerIcons{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 200px;
+  margin-right: 20px;
+}
+.HeaderIcons01__img{
+  width: 18px;
+  margin-right: 40px;
+  cursor: pointer;
+}
+.HeaderIcons02__img{
+  width: 30px;
+  margin-right: 10px;
+  cursor: pointer;
+}

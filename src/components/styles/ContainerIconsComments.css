@@ -1,0 +1,21 @@
+.containerIconsComments{
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+  margin-left: 25px;
+}
+.imageComments:hover{
+  /* width: 18px; */
+  background: rgba(144, 144, 144, 0.192);
+  border-radius: 50%;
+}
+.comentsText{
+  background: none;
+  color: #606060;
+  letter-spacing: 0.007px;
+  font-size: 13px;
+  font-weight: 500;
+  border:none;
+  letter-spacing: 0.007px;
+  cursor: pointer;
+}

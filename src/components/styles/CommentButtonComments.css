@@ -1,0 +1,13 @@
+.commentButtonComments{
+  background: #ccc;
+  color: #606060;
+  font-size: 14px;
+  font-weight: 500;
+  margin-top: 8px;
+  border:none;
+  letter-spacing: 0.007px;
+  cursor: pointer;
+  width: 110px;
+  height: 36px;
+  color: #fff;
+}

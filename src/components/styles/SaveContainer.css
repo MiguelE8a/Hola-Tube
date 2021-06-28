@@ -1,0 +1,14 @@
+.saveContainer{
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  padding-bottom: 20px;
+}
+.saveIcon{
+  margin-left: 15px;
+}
+.saveIcon:hover{
+  background: rgba(144, 144, 144, 0.192);
+  border-radius: 50%;
+  width: 37px;
+}

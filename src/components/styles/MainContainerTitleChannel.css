@@ -1,0 +1,6 @@
+.mainContainerTitleChannel{
+  /* border-bottom: 1px solid black; */
+  display: flex;
+  padding: 16px 0px;
+  border-bottom: 1px solid #6060603d;
+}

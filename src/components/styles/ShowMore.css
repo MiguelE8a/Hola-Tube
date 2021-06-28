@@ -1,0 +1,11 @@
+.showMore{
+  background: none;
+  color: #606060;
+  letter-spacing: 0.007px;
+  font-size: 13px;
+  font-weight: 500;
+  margin-top: 8px;
+  border:none;
+  letter-spacing: 0.007px;
+  cursor: pointer;
+}

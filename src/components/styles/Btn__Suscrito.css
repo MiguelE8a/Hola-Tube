@@ -1,0 +1,13 @@
+.btn__suscrito{
+  background: #0000000d;
+  color: #606060;
+  font-size: 14px;
+  font-weight: 500;
+  border:none;
+  letter-spacing: 0.007px;
+  cursor: pointer;
+  text-transform: uppercase;
+  width: 101px;
+  height: 36px;
+  margin-right: 5px;
+}

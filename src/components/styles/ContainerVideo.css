@@ -1,0 +1,9 @@
+.container__Video{
+  width: 100%;
+  /* border: 1px solid black; */
+}
+.video{
+  width: 840px;
+  height: 462px;
+  border: 1px solid black;
+}

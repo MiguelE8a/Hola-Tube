@@ -1,0 +1,18 @@
+.likeContainer {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  padding-bottom: 20px;
+  letter-spacing: 0.5px;
+  font-weight: 500;
+  text-decoration-color: rgb(144, 144, 144);
+  text-transform: uppercase;
+}
+.containLikeIcon{
+  width: 36px;
+  height: 36px;
+}
+.containLikeIcon:hover{
+  background: rgba(144, 144, 144, 0.192);
+  border-radius: 50%;
+}

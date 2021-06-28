@@ -1,0 +1,15 @@
+.containerComments{
+  margin-left: 15px;
+}
+.contUserName{
+  display: flex;
+  align-items: center;
+}
+.userNameComments{
+  font-size: 13px;
+  font-weight: 600;
+}
+.dateComments{
+  font-size: 12px;
+  color: #808080;
+}

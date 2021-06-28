@@ -1,0 +1,12 @@
+.titleHash{
+  text-decoration-line: none;
+  color: rgb(6, 95, 212);
+  font-size: 12px;
+}
+.titileVideo{
+  font-weight: 400;
+  font-size: 18px;
+  color: #606060;
+  word-break: break-word;
+  line-height: 26px;
+}
