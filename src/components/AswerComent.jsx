@@ -3,7 +3,7 @@ import './styles/AswerComent.css'
 
 const AswerComent = () =>(
   <button className="aswerComent">
-    RESOPNDER
+    RESPONDER
   </button>
 )
 

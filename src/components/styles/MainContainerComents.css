@@ -1,3 +1,6 @@
 .mainContainerComents{
   display: flex;
 }
+.imgUserComent{
+  width: 48px;
+}

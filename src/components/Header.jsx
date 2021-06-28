@@ -7,6 +7,8 @@ import HeaderIcon01 from "../assets/static/HeaderIcon01-img.png"
 import HeaderIcon002 from "../assets/static/HeaderIcon02-img.png"
 import HeaderIcon03 from "../assets/static/HeaderIcon03-img.png"
 import HeaderIcon04 from "../assets/static/HeaderIcon04-img.png"
+import HeaderIcon05 from "../assets/static/HeaderIcon05-img.png"
+import HeaderIcon06 from "../assets/static/HeaderIcon06-img.png"
 
 const Header = () => {
   return(
@@ -17,7 +19,7 @@ const Header = () => {
           <img src={HeaderIcon02} alt="Yotube-Logo" className="Header_Logo-img" />
         </a>
         <a href="/#" className="Header__Logo--B">
-          <img src="https://logos-marcas.com/wp-content/uploads/2020/04/YouTube-Logo.png" alt="" className="Header_Logo-img2" />
+          <img src={HeaderIcon05} alt="" className="Header_Logo-img2" />
         </a>
         <div className="Header__Logo--ContainerPE">
           <p  className="Header--PE">PE</p>
@@ -44,7 +46,7 @@ const Header = () => {
           <img src={HeaderIcon03} alt="" className="HeaderIcons01__img" />
         </div>
         <div className="HeaderIcon01">
-          <img src={HeaderIcon04} alt="" className="HeaderIcons02__img" />
+          <img src={HeaderIcon06} alt="" className="HeaderIcons02__img" />
         </div>
       </div>
     </div>
